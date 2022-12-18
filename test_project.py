@@ -1,5 +1,5 @@
 import pytest
-from app import kelvinToCelcius, formatWindSpeed
+from project import kelvinToCelcius, formatWindSpeed
 
 
 def test_ktoc():
