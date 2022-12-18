@@ -8,7 +8,7 @@
 
 ## You can run my app 2 ways
 
-1. Just use installer file (which I've build with pyinstall library)
+1. Just use executable (Weather.exe) file (which I've build with pyinstall library)
 2. Follow below methods (use command line for that)
 
 ## USAGE:
