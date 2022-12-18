@@ -30,5 +30,5 @@ pip install -r requirements.txt
 **To RUN the App**
 
 ```
-python app.py [location name]
+python project.py [location name]
 ```
